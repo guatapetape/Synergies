@@ -1,0 +1,14 @@
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\obj\Debug\Synergies.QAform.Tests.csprojResolveAssemblyReference.cache
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\chromedriver.exe
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\Synergies.QAform.Tests.dll
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\Synergies.QAform.Tests.pdb
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\nunit.framework.dll
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\Synergies.QAform.dll
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\Synergies.QAform.pdb
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\nunit.framework.xml
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\obj\Debug\Synergies.QAform.Tests.dll
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\obj\Debug\Synergies.QAform.Tests.pdb
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\WebDriver.dll
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\WebDriver.xml
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\WebDriver.Support.dll
+c:\users\arielp\documents\visual studio 2015\Projects\Synergies.QAform.Tests\Synergies.QAform.Tests\bin\Debug\WebDriver.Support.xml
